@@ -7,15 +7,16 @@ Where: Zoom
 
 ## Attendence 
 - Cora Coleman (TA)
-- Prothit Halder
-- Anna Hsieh
-- Yizhou Wang
-- Minjun Xu
-- Enze Ma
-- Harry Lei
-- Jingjing Qiao
-- Meshach Adoe
-- Lexseal Lin
+- [x] Prothit Halder
+- [x] Anna Hsieh
+- [x] Yizhou Wang
+- [x] Minjun Xu
+- [x] Enze Ma
+- [x] Harry Lei
+- [x] Jingjing Qiao
+- [x] Meshach Adoe
+- [x] Lexseal Lin
+- [ ] Bin Ni (research meeting conflict)
 
 ## Meeting Agenda
 - [x] Introductions
